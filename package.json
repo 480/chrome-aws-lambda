@@ -1,5 +1,5 @@
 {
-  "name": "chrome-aws-lambda",
+  "name": "@480/chrome-aws-lambda",
   "private": false,
   "version": "10.1.0",
   "author": {
